@@ -267,6 +267,8 @@ class Login {
             passwordInput.disabled = false;
             loginBtn.style.display = "block";
             infoLogin.innerHTML = "&nbsp;";
+
+            console.log(passwordInput.value);
         })
     }
 }

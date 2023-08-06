@@ -122,3 +122,9 @@
     color: #F1F1F1;
     cursor: default;
 }
+
+.disabled{
+    text-align: center;
+    display: block;
+    visibility: hidden;
+}
